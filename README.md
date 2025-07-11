@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/na9kk9c7ejh91jf1?svg=true)](https://ci.appveyor.com/project/romiraxp/js-unit-tests)
+[![Build status](https://ci.appveyor.com/api/projects/status/687avc0e9to84xv6?svg=true)](https://ci.appveyor.com/project/romiraxp/js-unit-tests)
 
 # Домашнее задание к лекции «Unit-тестирование»
 
