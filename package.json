@@ -16,7 +16,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "test": "test --coverage",
+    "test": "jest --coverage",
     "postinstall": "napi-postinstall unrs-resolver"
   },
   "devDependencies": {
