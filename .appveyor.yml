@@ -1,4 +1,4 @@
-image: ubuntu-latest #образ для сборки
+image: Ubuntu #образ для сборки
 stack: node 12 # окружение
 branches:
   only:
