@@ -1,3 +1,7 @@
+GitHub Actions Badge
+[![CI Pipeline](https://github.com/romiraxp/js_unit_tests/actions/workflows/main.yml/badge.svg)](https://github.com/romiraxp/js_unit_tests/actions/workflows/main.yml)
+
+Appveyor badge
 [![Build status](https://ci.appveyor.com/api/projects/status/687avc0e9to84xv6?svg=true)](https://ci.appveyor.com/project/romiraxp/js-unit-tests)
 
 # Домашнее задание к лекции «Unit-тестирование»

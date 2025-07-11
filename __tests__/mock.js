@@ -9,7 +9,6 @@ beforeEach(() => {
 });
 test('to get level about user if status is not OK', () => {
     fetchData.mockReturnValue({ status: "", level: 10 });
-    getLevel(1);
     expect(getLevel(1)).toBe("Информация об уровне временно недоступна"); 
 });
 
@@ -18,7 +17,6 @@ beforeEach(() => {
 });
 test('to get level about user if status is ok', () => {
     fetchData.mockReturnValue({ status: "ok", level: 10 });
-    getLevel(1);
     expect(getLevel(1)).toBe("Ваш текущий уровень: 10"); 
 });
 
